@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arafat-Shifat
-- 👀 I’m interested in ...python,c++,java,php,arduino
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...robotics and also python,c++,java,php,arduino
+- 🌱 I’m currently learning ...python& arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
